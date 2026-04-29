@@ -1,4 +1,4 @@
-package POO.Heranca.exemplo3;
+package POO.Heranca.exemplo.tres;
 
 public class Principal {
     public static void main(String[] args) {
