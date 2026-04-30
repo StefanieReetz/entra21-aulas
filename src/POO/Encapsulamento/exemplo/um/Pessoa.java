@@ -1,4 +1,4 @@
-package POO.Encapsulamento.exemplo1;
+package POO.Encapsulamento.exemplo.um;
 
 public class Pessoa {
     private String nome;

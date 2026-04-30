@@ -1,4 +1,4 @@
-package POO.Encapsulamento.exemplo2;
+package POO.Encapsulamento.exemplo.dois;
 
 public class Principal {
     public static void main(String[] args) {
