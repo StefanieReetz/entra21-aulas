@@ -1,0 +1,13 @@
+package POO.Abstacao.exemplo2;
+
+public class Boleto extends PagamentoAbstract{
+
+    public Boleto(double valor) {
+        super(valor);
+    }
+
+    @Override
+    public void processar() {
+        System.out.println("Pagamento com Boleto!");
+    }
+}
