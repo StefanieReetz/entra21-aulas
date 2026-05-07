@@ -44,8 +44,8 @@ public class ProdutoService {
         double total = 0;
 
         for (Produto produto : produtos) {
-            double preco = Double.parseDouble(produto.getPreco());
-            int qtd = Integer.parseInt(produto.getQuantidade());
+            double preco = produto.getPreco();
+            int qtd = produto.getQuantidade();
             total += preco * qtd;
         }
 
