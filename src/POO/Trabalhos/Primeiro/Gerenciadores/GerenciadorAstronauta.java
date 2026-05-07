@@ -1,8 +1,8 @@
-package POO.Trabalho.Gerenciadores;
+package POO.Trabalhos.Primeiro.Gerenciadores;
 
 
 
-import POO.Trabalho.Astronauta;
+import POO.Trabalhos.Primeiro.Astronauta;
 
 import java.util.ArrayList;
 import java.util.List;

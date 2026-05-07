@@ -1,4 +1,4 @@
-package POO.Trabalho;
+package POO.Trabalhos.Primeiro;
 
 public enum StatusMissao {
     PLANEJADA,

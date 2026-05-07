@@ -1,6 +1,6 @@
-package POO.Trabalho.Gerenciadores;
+package POO.Trabalhos.Primeiro.Gerenciadores;
 
-import POO.Trabalho.NaveEspacial;
+import POO.Trabalhos.Primeiro.NaveEspacial;
 
 import java.util.ArrayList;
 import java.util.List;

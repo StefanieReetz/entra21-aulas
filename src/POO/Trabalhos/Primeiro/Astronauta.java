@@ -1,4 +1,4 @@
-package POO.Trabalho;
+package POO.Trabalhos.Primeiro;
 
 public class Astronauta extends Identidade {
     private String nome;

@@ -1,11 +1,11 @@
-package POO.Trabalho.Gerenciadores;
+package POO.Trabalhos.Primeiro.Gerenciadores;
 
 
 
-import POO.Trabalho.Astronauta;
-import POO.Trabalho.Missao;
-import POO.Trabalho.NaveEspacial;
-import POO.Trabalho.StatusMissao;
+import POO.Trabalhos.Primeiro.Astronauta;
+import POO.Trabalhos.Primeiro.Missao;
+import POO.Trabalhos.Primeiro.NaveEspacial;
+import POO.Trabalhos.Primeiro.StatusMissao;
 
 import java.util.ArrayList;
 import java.util.List;
