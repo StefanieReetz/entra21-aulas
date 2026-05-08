@@ -1,4 +1,4 @@
-package POO.Trabalhos.Segundo;
+package POO.Trabalhos.Atividades.Primeiro;
 
 public class Menu {
     public static void exibirMenu(){

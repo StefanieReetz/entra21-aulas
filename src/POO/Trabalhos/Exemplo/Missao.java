@@ -1,6 +1,6 @@
-package POO.Trabalhos.Primeiro;
+package POO.Trabalhos.Exemplo;
 
-public class Missao extends Identidade{
+public class Missao extends Identidade {
 
     private String objetivo;
     private String dataLancamento;

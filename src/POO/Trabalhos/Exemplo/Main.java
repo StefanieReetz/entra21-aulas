@@ -1,9 +1,9 @@
-package POO.Trabalhos.Primeiro;
+package POO.Trabalhos.Exemplo;
 
 
-import POO.Trabalhos.Primeiro.Gerenciadores.GerenciadorAstronauta;
-import POO.Trabalhos.Primeiro.Gerenciadores.GerenciadorMissao;
-import POO.Trabalhos.Primeiro.Gerenciadores.GerenciadorNave;
+import POO.Trabalhos.Exemplo.Gerenciadores.GerenciadorAstronauta;
+import POO.Trabalhos.Exemplo.Gerenciadores.GerenciadorMissao;
+import POO.Trabalhos.Exemplo.Gerenciadores.GerenciadorNave;
 
 import java.util.Scanner;
 

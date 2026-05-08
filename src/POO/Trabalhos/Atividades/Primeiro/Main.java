@@ -1,6 +1,6 @@
-package POO.Trabalhos.Segundo;
+package POO.Trabalhos.Atividades.Primeiro;
 
-import POO.Trabalhos.Segundo.Service.ProdutoService;
+import POO.Trabalhos.Atividades.Primeiro.Service.ProdutoService;
 
 import java.util.Scanner;
 

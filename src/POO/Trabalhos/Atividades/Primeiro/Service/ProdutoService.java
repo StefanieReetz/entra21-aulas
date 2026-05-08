@@ -1,6 +1,6 @@
-package POO.Trabalhos.Segundo.Service;
+package POO.Trabalhos.Atividades.Primeiro.Service;
 
-import POO.Trabalhos.Segundo.Produto;
+import POO.Trabalhos.Atividades.Primeiro.Produto;
 
 import java.util.ArrayList;
 import java.util.List;

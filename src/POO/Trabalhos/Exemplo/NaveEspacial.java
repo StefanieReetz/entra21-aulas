@@ -1,8 +1,8 @@
-package POO.Trabalhos.Primeiro;
+package POO.Trabalhos.Exemplo;
 
 import java.util.List;
 
-public class NaveEspacial extends Identidade{
+public class NaveEspacial extends Identidade {
     private String tipo;
     private String capacidade;
     private List<Astronauta> astronautas;

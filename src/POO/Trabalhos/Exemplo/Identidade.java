@@ -1,4 +1,4 @@
-package POO.Trabalhos.Primeiro;
+package POO.Trabalhos.Exemplo;
 
 public class Identidade {
 
